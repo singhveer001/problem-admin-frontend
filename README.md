@@ -1,8 +1,14 @@
-# React + Vite
+```
+npm i react-markdown
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+npm i react-simplemde-editor
 
-Currently, two official plugins are available:
+npm i showdown
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm i react-markdown-editor-lite
+
+npm install -D @tailwindcss/typography
+
+npm i rehype-raw => markdown will actually start respecting the coming html aswell
+
+```
